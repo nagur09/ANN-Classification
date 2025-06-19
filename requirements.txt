@@ -5,6 +5,5 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
 ipykernel
 python==3.10.5
